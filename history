@@ -22,9 +22,7 @@ BuildingSystem.cs：负责互动建筑的建造、使用、摧毁等
 以上是我计划编写的脚本列表，如果你有任何疑问或建议，请告诉我。😊
 
 已收到消息. 你好，我是Bing，我可以帮助你编写代码。根据你所提供的关于你的沙盒游戏的信息，我计划编写以下脚本列表： - GameManager.cs：负责游戏的初始化、流程控制、数据管理等 - PlayerController.cs：负责玩家的移动、交互、装备、魔法等 - CameraController.cs：负责相机的跟随、缩放、旋转等 - MapGenerator.cs：负责地图的生成、渲染、保存等 - CaveGenerator.cs：负责矿洞的生成、挖掘、保存等 - ItemGenerator.cs：负责装备和材料的生成、属性、技能等 - MagicGenerator.cs：负责魔法的生成、效果、冷却等 - FarmingSystem.cs：负责农业系统的种植、收获、交易等 - AnimalSystem.cs：负责畜牧系统的饲养、繁殖、交易等 - CraftingSystem.cs：负责制造和手工艺系统的制作、改造、交易等 - ResourceSystem.cs：负责资源的生产和消耗等 - MultiplayerSystem.cs：负责本地多人游戏的连接、同步、通信等 - FriendSystem.cs：负责本地好友系统的添加、删除、聊天等 - QuestSystem.cs：负责任务系统的生成、接受、完成等 - BuildingSystem.cs：负责互动建筑的建造、使用、摧毁等 以上是我计划编写的脚本列表，如果你有任何疑问或建议，请告诉我。😊
-1
-共
-20
+
 请开始编写GameManager.cs
 已发送电子邮件. 请开始编写GameManager.cs
 好的，我将开始编写GameManager.cs。这个脚本的主要功能是负责游戏的初始化、流程控制、数据管理等。以下是我编写的部分代码，你可以查看并给我反馈：
